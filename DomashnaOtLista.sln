@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirrorNum", "MirrorNum\MirrorNum.csproj", "{D29072B7-341F-4392-86E2-544DAB36FD8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teamwork", "Teamwork\Teamwork.csproj", "{5E80A1AC-3A9F-4B79-839E-0436D7C6B9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcenkiTable", "OcenkiTable\OcenkiTable.csproj", "{66991FAC-CF2F-4482-866E-2312EA4B4376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29072B7-341F-4392-86E2-544DAB36FD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29072B7-341F-4392-86E2-544DAB36FD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29072B7-341F-4392-86E2-544DAB36FD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29072B7-341F-4392-86E2-544DAB36FD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E80A1AC-3A9F-4B79-839E-0436D7C6B9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E80A1AC-3A9F-4B79-839E-0436D7C6B9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E80A1AC-3A9F-4B79-839E-0436D7C6B9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E80A1AC-3A9F-4B79-839E-0436D7C6B9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66991FAC-CF2F-4482-866E-2312EA4B4376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66991FAC-CF2F-4482-866E-2312EA4B4376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66991FAC-CF2F-4482-866E-2312EA4B4376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66991FAC-CF2F-4482-866E-2312EA4B4376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF814280-0795-4008-B126-E1EA4B2521D5}
+	EndGlobalSection
+EndGlobal
